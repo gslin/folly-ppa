@@ -1,5 +1,5 @@
-folly (0.20190309.0.eee4222-0ubuntu1~unstable~ppa1) unstable; urgency=medium
+folly (0.58.0.20190309.0.eee4222-0ubuntu1~unstable~ppa1) unstable; urgency=medium
 
-  * Packaging 0.20190309.0.eee4222.
+  * Packaging 0.58.0.20190309.0.eee4222.
 
  -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 10 Mar 2019 05:38:59 +0800

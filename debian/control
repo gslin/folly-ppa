@@ -9,6 +9,6 @@ Vcs-Git: https://github.com/facebook/folly.git
 Vcs-Browser: https://github.com/facebook/folly
 
 Package: folly
-Architecture: all
+Architecture: any
 Depends: ${shlibs:Depends}
 Description: An open-source C++ library developed and used at Facebook.
