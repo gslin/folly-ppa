@@ -1,3 +1,9 @@
+folly (0.58.0.20190309.0.eee4222-0ubuntu1~unstable~ppa3) unstable; urgency=medium
+
+  * Require gcc >= 5.1.0.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 10 Mar 2019 18:48:40 +0800
+
 folly (0.58.0.20190309.0.eee4222-0ubuntu1~unstable~ppa2) unstable; urgency=medium
 
   * Require cmake >= 3.0.2.
