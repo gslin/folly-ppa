@@ -1,3 +1,10 @@
+folly (0.58.0.20190310.0.9ff87c2-0ubuntu1~unstable~ppa3) unstable; urgency=medium
+
+  * Use g++-5 and gcc-5.
+  * Use CC and CXX environment to influence cmake.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 10 Mar 2019 23:40:19 +0800
+
 folly (0.58.0.20190310.0.9ff87c2-0ubuntu1~unstable~ppa2) unstable; urgency=medium
 
   * Force g++ & gcc both >= 7.3.0.
