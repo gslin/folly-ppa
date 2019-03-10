@@ -1,3 +1,10 @@
+folly (0.58.0.20190310.0.9ff87c2-0ubuntu1~unstable~ppa1) unstable; urgency=medium
+
+  * Packaging 0.58.0.20190310.0.9ff87c2.
+  * Require gcc >= 7.3.0.
+
+ -- Gea-Suan Lin (PPA) <gslin@gslin.org>  Sun, 10 Mar 2019 19:17:07 +0800
+
 folly (0.58.0.20190309.0.eee4222-0ubuntu1~unstable~ppa3) unstable; urgency=medium
 
   * Require gcc >= 5.1.0.
